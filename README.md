@@ -3,7 +3,7 @@
 ## Overview
 
 The Hades FPV Nano Drone Project is an open-source initiative to create a compact drone controlled by a Raspberry Pi Zero. The drone utilizes brushed motors for propulsion and includes telemetry capabilities for real-time data. The project also features a remote control application to manage and operate the drone effectively.
-
+![Profile Views](https://komarev.com/ghpvc/?username=haydenbanz&color=%232A3E87&labelColor=%236A7DA8&style=for-the-badge)
 
 ## Installation
 Follow the steps in `INSTALLATION.md` to set up the drone and remote control.
