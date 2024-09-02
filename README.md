@@ -1,4 +1,4 @@
-# Hades FPV Nano Drone Project
+# Hades FPV Nano Drone 
 
 ## Overview
 
